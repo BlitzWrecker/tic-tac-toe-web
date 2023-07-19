@@ -11,7 +11,6 @@ function Square({ value, onSquareClick }) {
   );
 }
 
-// test signed commits comment
 function calculateWinner(squares) {
   const lines = [
     [0, 1, 2],
