@@ -10,7 +10,7 @@ function Square({ value, onSquareClick }) {
     </button>
   );
 }
-// test
+
 function calculateWinner(squares) {
   const lines = [
     [0, 1, 2],
